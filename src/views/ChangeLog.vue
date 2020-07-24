@@ -36,7 +36,8 @@ export default {
     data() {
         return {
             changelog:[
-              {date: "05/20/2020", version: "0.1.0", desc: "Website created!"}
+              {date: "05/20/2020", version: "0.1.0", desc: "Website created!"},
+              {date: "07/23/2020", version: "0.5.0", desc: "DunGen 1.0 finished"}
             ]
         }
     },

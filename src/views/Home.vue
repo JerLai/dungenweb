@@ -1,9 +1,6 @@
 <template>
   <v-container class="display-container">
       <v-col class="mb-4">
-        <h1 class="display-2 font-weight-bold mb-3">
-          Click the application screen to generate a new dungeon
-        </h1>
       </v-col>
     <div class="gen-container">
       <!--
@@ -12,7 +9,7 @@
       -->
       <unity
         hideFooter=true
-        src="/Build/WebGL.json"
+        src="/Build/DunGenWebGL.json"
         width="1000"
         height="600"
         unityLoader="/Build/UnityLoader.js" ref="myInstance"

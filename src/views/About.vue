@@ -46,7 +46,8 @@ export default {
         return {
             goals: [
               {name: "DunGen UI", desc: "Tidying up the Unity UI in the demo, and for future versions for cleaner useability."},
-              {name: "DunGen Builder 1.0", desc: "First full iteration of the procedural generator. Tidying up the Unity UI to provide cleaner intuition on how to use. Generate dungeons based on grid size, algorithm type, room size and more."},
+              {name: "DunGen Builder 1.0", desc: "First full iteration of the procedural generator. Tidying up the Unity UI to provide cleaner intuition on how to use. Generate dungeons based on grid size, room size and more."},
+              {name: "DunGen Builder 1.5", desc: "More algorithms implemented"},
               {name: "Personal Accounts", desc: "Account system to provide ways to share/save maps made."},
               {name: "DunGen Builder 2.0", desc: "Hand-author dungeons in a special mode. Draw your own rooms, hallways, and insert your own enemies, traps, treasures and events."},
               {name: "Scenario Blueprint 1.0", desc: "Simulation tool to create a dungeon blueprint for game scenarios, such as in Dungeons and Dragons"}
