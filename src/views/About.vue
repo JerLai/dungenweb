@@ -9,6 +9,22 @@
         dungeons, or to help in the hand-authoring of dungeons. This tool is planned to be an open tool for
         people without the explicit use of the Unity Engine for a variety of purposes.
       </p>
+      <h1 class="text-uppercase headline font-weight-bold mb-2 text-center">Update Regarding stalled development "02/11/2025"</h1>
+      <p class = "text-center mb-10">
+        After the initial release of 1.0, I went ahead to research and learn more generation algorithms to implement.
+        I wanted the next release to be more robust, to showcase more algorithms in order to fuel future development plans
+        with games in Unity. However, after another 2 years of development, I decided to take a step back to rethink the whole tool.
+        This is suppose to be a general purpose tool to help in creating map layouts for games that would want interesting dungeons
+        generated on the fly or to be curated. Why am I trying to implement it in Unity? Would I not just be locked into using Unity for all future games?
+
+        I took a while to ponder what I should do, whether I should keep using what I had or restart from scratch. It would be sad to throw away my current
+        work but I had enough of working around Unity for something as simple as generating a grid layout that forms a map. I wanted to throw away some of
+        extra features for something more streamlined first for the basic tool. Thus I decided to restart from scratch. However, algorithms and logic are easily
+        migratable, just how it looks will be different. Coupled with the Unity fiasco towards its developers, it felt appropriate to do a refresh.
+
+        Doing something like this alone with only your passion can be tricky, I respect all other developers that release something amazing. Going forward,
+        I intend to incrementally make the tool as I intended: a simple tool for all that can be used to generate the layouts they desire.
+      </p>
     </section>
     <section id="roadmap" style="padding: 0px 0px;">
       <h1 class="text-uppercase headline font-weight-bold mb-2 text-center">Future RoadMap</h1>
